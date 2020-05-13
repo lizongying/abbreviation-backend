@@ -1,4 +1,4 @@
-# abbreviation-backtend
+# abbreviation-backend
 
 ```
 go build --tags "fts5"
