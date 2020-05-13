@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+dev.yml
+prod.yml
+dist
+pkg
+go.sum
+abbreviation
+abbreviation.db
+
